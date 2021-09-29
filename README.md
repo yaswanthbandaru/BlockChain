@@ -1,4 +1,4 @@
-# BlockChainDefinations
+# BlockChain
 
 
 ## What is Blockchain?
