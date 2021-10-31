@@ -13,6 +13,11 @@ Blockchainis a shared, immutable ledger for that facilitates the process of reco
 * Permissioned blockchain networks
 * Consortium blockchains
 
+## Benefits of Blockchain
+
+* **Greater trust**
+* **Greater security**
+* **More efficiencies**
 
 ## Resources
 
